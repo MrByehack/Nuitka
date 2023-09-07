@@ -1316,6 +1316,11 @@
     dirs:
       - 'grammars'
 
+- module-name: 'librosa.core.intervals'
+  data-files:
+    patterns:
+      - 'intervals.msgpack'
+
 - module-name: 'lightgbm.libpath'
   dlls:
     - from_filenames:
